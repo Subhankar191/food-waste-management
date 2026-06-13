@@ -10,7 +10,7 @@ EcoPlate is a web-based platform designed to streamline food waste management an
 
 ## 🌐 Live Preview
 
-> [https://food-waste-management-system-swart.vercel.app/](https://food-waste-management-system-swart.vercel.app/)
+> [https://food-waste-management-system-swart.vercel.app](https://food-waste-management-system-swart.vercel.app/)
 ## Tech Stack
 
 - **Frontend** — React with Vite
