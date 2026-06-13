@@ -3,16 +3,14 @@
 </p>
 
 <h1 align="center">EcoPlate</h1>
-<p align="center">A Food Waste Management and Stakeholder Co-ordination Portal</p>
-
----
-
-## Overview
 
 EcoPlate is a web-based platform designed to streamline food waste management and facilitate coordination between students, caterers, and administrators. The system provides role-based access to help stakeholders track, report, and reduce food waste effectively.
 
 ---
 
+## 🌐 Live Preview
+
+> [https://food-waste-management-system-swart.vercel.app/](https://food-waste-management-system-swart.vercel.app/)
 ## Tech Stack
 
 - **Frontend** — React with Vite
