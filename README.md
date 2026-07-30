@@ -11,6 +11,48 @@ EcoPlate is a web-based platform designed to streamline food waste management an
 ## 🌐 Live Preview
 
 > [https://food-waste-management-system-swart.vercel.app](https://food-waste-management-system-swart.vercel.app/)
+
+---
+
+## 🖼️ Screenshots
+
+### 🏠 Home Page
+![Home](./crowdfunding-dapp/screenshots/Screenshot_1.png)
+
+### 📋 All Campaigns
+![Campaigns](./crowdfunding-dapp/screenshots/Screenshot_2.png)
+
+### 📊 Dashboard
+![Dashboard](./crowdfunding-dapp/screenshots/Screenshot_3.png)
+
+### 📊 Dashboard
+![Dashboard](./crowdfunding-dapp/screenshots/Screenshot_4.png)
+
+---
+
+## ✨ Features
+
+- 🔐 **Wallet Integration** – Connect your Ethereum wallet to interact with the platform.
+- ➕ **Create Campaign** – Launch your own crowdfunding campaign with custom goals and deadlines.
+- 📂 **Explore Campaigns** – Browse all campaigns with filters for All, Active, Successful, and Failed.
+- 📊 **Dashboard** – View your created and backed campaigns with real-time status.
+- 🧠 **Smart Contract Powered** – Ethereum blockchain ensures transparency and security.
+- 🧮 **Live Stats** – Track raised funds, goal completion, and campaign status.
+- 📁 **List/Grid Toggle** – Easily switch between layouts for browsing campaigns.
+- 🎯 **Progress Bars & Status Tags** – Visual indicators of campaign health.
+- 🧾 **Success Metrics** – See overall campaign stats like total raised and success rate.
+
+---
+
+## 🛠 Tech Stack
+
+| Frontend     | Blockchain    | Deployment         |
+|--------------|---------------|--------------------|
+| React        | Solidity      | Hardhat            |
+| Tailwind CSS | Ethers.js     | MetaMask + Sepolia |
+| TypeScript   | OpenZeppelin  |        –           |
+
+---
 ## Tech Stack
 
 - **Frontend** — React with Vite
