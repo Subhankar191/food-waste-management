@@ -35,32 +35,31 @@ EcoPlate is a web-based platform designed to streamline food waste management an
 
 ## ✨ Features
 
-- 🔐 **Wallet Integration** – Connect your Ethereum wallet to interact with the platform.
-- ➕ **Create Campaign** – Launch your own crowdfunding campaign with custom goals and deadlines.
-- 📂 **Explore Campaigns** – Browse all campaigns with filters for All, Active, Successful, and Failed.
-- 📊 **Dashboard** – View your created and backed campaigns with real-time status.
-- 🧠 **Smart Contract Powered** – Ethereum blockchain ensures transparency and security.
-- 🧮 **Live Stats** – Track raised funds, goal completion, and campaign status.
-- 📁 **List/Grid Toggle** – Easily switch between layouts for browsing campaigns.
-- 🎯 **Progress Bars & Status Tags** – Visual indicators of campaign health.
-- 🧾 **Success Metrics** – See overall campaign stats like total raised and success rate.
+- 🔐 **Secure User Authentication** – Register and log in securely to access personalized waste management services.
+- 🗑️ **Waste Logging System** – Record daily food waste activities and maintain accurate waste disposal records.
+- 📅 **Food Calendar** – Track waste management activities and scheduled logs through an interactive calendar interface.
+- 📜 **Waste History** – View and monitor past waste logs to understand disposal patterns over time.
+- 📈 **Personal Trends & Insights** – Analyze waste generation habits with visual trends and performance metrics.
+- 💬 **Messaging System** – Communicate seamlessly with administrators and other stakeholders within the platform.
+- 📝 **Feedback Module** – Submit feedback and suggestions to improve waste management services.
+- 🎮 **Gamification with Arcade Zone** – Encourage user engagement through interactive challenges and reward-based activities.
+- 🎛️ **Admin Overview Dashboard** – Access a centralized high-level view of platform activity, key performance metrics, and system operations.
+- 📈 **Waste Reports & Analytics** – Generate detailed reports and gain actionable insights from collected waste data.
+- 🗓️ **Report Calendar** – Track waste reports, logs, and analytics historical data in an organized calendar format.
+- 🍽️ **Menu Management** – View and manage food menus to align preparation with actual demand and reduce surplus waste.
+- 👥 **User Management & Role Access** – Administer user profiles, monitor participation, and manage role-based permissions for users and admins.
+- 🍃 **Carbon Insights** – Measure environmental impact, calculate carbon footprints, and track carbon reduction achievements over time.
+- ♻️ **Sustainability Monitoring** – Promote responsible waste management practices through continuous tracking and evaluation.
 
 ---
 
 ## 🛠 Tech Stack
 
-| Frontend     | Blockchain    | Deployment         |
-|--------------|---------------|--------------------|
-| React        | Solidity      | Hardhat            |
-| Tailwind CSS | Ethers.js     | MetaMask + Sepolia |
-| TypeScript   | OpenZeppelin  |        –           |
-
----
-## Tech Stack
-
-- **Frontend** — React with Vite
-- **Backend** — Supabase (PostgreSQL + Edge Functions)
-- **AI Features** — Gemini API via Supabase Edge Functions (PDF parsing)
+| Frontend     | Backend       | Deployment    |
+|--------------|---------------|---------------|
+| React        | Supabase      | Gemini API    |
+| Vite         | PostgreSQL    |     -         |
+|    -         | Edge Function |     –         |
 
 ---
 
