@@ -97,7 +97,7 @@ npm --version
 ### Step 2 — Clone the repository and install dependencies
 
 ```bash
-git clone https://github.com/arunavsameer/Food_Waste_Management_System.git
+git clone https://github.com/Subhankar191/food-waste-management.git
 cd Food_Waste_Management
 npm install
 ```
@@ -164,7 +164,7 @@ npm --version
 ### Step 3 — Clone the repository and install dependencies
 
 ```bash
-git clone https://github.com/arunavsameer/Food_Waste_Management_System.git
+git clone https://github.com/Subhankar191/food-waste-management.git
 cd Food_Waste_Management
 npm install
 ```
@@ -206,7 +206,7 @@ npm --version
 ### Step 2 — Clone the repository and install dependencies
 
 ```bash
-git clone https://github.com/arunavsameer/Food_Waste_Management_System.git
+git clone https://github.com/Subhankar191/food-waste-management.git
 cd Food_Waste_Management
 npm install
 ```
@@ -279,4 +279,4 @@ Go ahead and use any of these accounts to try out the features. Refer to the doc
 
 ## Repository
 
-[github.com/arunavsameer/Food_Waste_Management_System](https://github.com/arunavsameer/Food_Waste_Management_System)
+[github.com/Subhankar191/food-waste-management](https://github.com/Subhankar191/food-waste-management)
