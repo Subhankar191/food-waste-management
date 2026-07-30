@@ -17,7 +17,7 @@ EcoPlate is a web-based platform designed to streamline food waste management an
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home](./crowdfunding-dapp/screenshots/Screenshot_1.png)
+![Home](./screanshots/Screenshot%202026-07-30%20132958.png)
 
 ### 📋 All Campaigns
 ![Campaigns](./crowdfunding-dapp/screenshots/Screenshot_2.png)
